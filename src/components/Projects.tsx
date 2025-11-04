@@ -74,12 +74,12 @@ const projects: Project[] = [
   },
 ];
 
-const languageColors: { [key: string]: string } = {
+/**const languageColors: { [key: string]: string } = {
   Python: 'bg-blue-500',
   HTML: 'bg-orange-500',
   JavaScript: 'bg-yellow-500',
   'Jupyter Notebook': 'bg-amber-500',
-};
+};**/
 
 export default function Projects() {
   return (
