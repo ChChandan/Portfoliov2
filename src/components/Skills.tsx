@@ -122,9 +122,11 @@ export default function Skills() {
           ))}
         </div>
 
-        <div className="divider-apple h-px mb-20"></div>
+       
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {/*
+           <div className="divider-apple h-px mb-20"></div>
+           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="animate-fade-in-up">
             <p className="text-gray-600 text-sm mb-2">Specialization</p>
             <h4 className="text-2xl font-semibold text-black">
@@ -144,6 +146,11 @@ export default function Skills() {
             </h4>
           </div>
         </div>
+          
+          */}
+        
+    
+     
       </div>
     </section>
   );
